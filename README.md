@@ -1,2 +1,2 @@
-# xenial-gcc6
-Vagrantfile for xenial with gcc-6 
+# zesty-gcc7
+Vagrantfile for xesty 17.04 with gcc-7
